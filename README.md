@@ -15,7 +15,7 @@ There are two Excel files this this fold:
 1. Plot.py is used for plotting the figures in our paper.
 
 ## How to cite us
-The authors welcome the reader reproduce our results based on the released DATA and CODE.
+The authors welcome readers reproduce our results based on the released DATA and CODE.
 If you have any question, please contata us: huangyubo@sjtu.edu.cn
 If you are interested in our paper, citing us by:
 
